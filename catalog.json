@@ -1,0 +1,666 @@
+{
+  "schema": 1,
+  "repository": "alandvo/avonetics-songs-042",
+  "songs": [
+    {
+      "id": "song_20261030_231007_2e56",
+      "title": "First Thing I Fixed",
+      "language": "English",
+      "source": "s_20261030_230736_f6cb87.m4a",
+      "bytes": 2045221,
+      "localMtime": 1793401807.9172423,
+      "file": "songs/dae710b1a511eac7e704c3f1d6e050b226caf8cb713d1b8d629643044afbca8e.m4a",
+      "sha256": "dae710b1a511eac7e704c3f1d6e050b226caf8cb713d1b8d629643044afbca8e"
+    },
+    {
+      "id": "song_20261030_233222_95c6",
+      "title": "Fever Pitch",
+      "language": "English",
+      "source": "s_20261030_232730_96d785.m4a",
+      "bytes": 2139489,
+      "localMtime": 1793403142.262799,
+      "file": "songs/d8a15e930cc80b9bc91d533ee0bbeeaa7eeff6d221768608a39fb8d7a76c8fb4.m4a",
+      "sha256": "d8a15e930cc80b9bc91d533ee0bbeeaa7eeff6d221768608a39fb8d7a76c8fb4"
+    },
+    {
+      "id": "song_20261030_234008_4e12",
+      "title": "Solstice Fever",
+      "language": "English",
+      "source": "s_20261030_233735_cdd882.m4a",
+      "bytes": 1902130,
+      "localMtime": 1793403607.9071677,
+      "file": "songs/9aafdabb371555db88a7f39a50892438776e6c428517e8a328ca3a74bcf3bbb7.m4a",
+      "sha256": "9aafdabb371555db88a7f39a50892438776e6c428517e8a328ca3a74bcf3bbb7"
+    },
+    {
+      "id": "song_20261030_235009_695a",
+      "title": "Permanent Address",
+      "language": "English",
+      "source": "s_20261030_234741_abe775.m4a",
+      "bytes": 1921785,
+      "localMtime": 1793404209.7433457,
+      "file": "songs/4fa97a3da8856d632ad03f4ab65d9a7f8f2a16d711843893fac3a606320f75c5.m4a",
+      "sha256": "4fa97a3da8856d632ad03f4ab65d9a7f8f2a16d711843893fac3a606320f75c5"
+    },
+    {
+      "id": "song_20261031_000014_0d5a",
+      "title": "Velvet Teeth",
+      "language": "English",
+      "source": "s_20261030_235727_6231d6.m4a",
+      "bytes": 2314471,
+      "localMtime": 1793404814.5582588,
+      "file": "songs/533ff0c7037dbc0b3c0cf75352283a51e71c759fbe82234e3f173816e45f02de.m4a",
+      "sha256": "533ff0c7037dbc0b3c0cf75352283a51e71c759fbe82234e3f173816e45f02de"
+    },
+    {
+      "id": "song_20261031_001006_644d",
+      "title": "Electric Velvet",
+      "language": "English",
+      "source": "s_20261031_000734_621fd9.m4a",
+      "bytes": 2207049,
+      "localMtime": 1793405406.8368437,
+      "file": "songs/8e6284884008fea1896f9fb3934811ba7a1dc43f4f59c00542a3eed20712663a.m4a",
+      "sha256": "8e6284884008fea1896f9fb3934811ba7a1dc43f4f59c00542a3eed20712663a"
+    },
+    {
+      "id": "song_20261031_003207_9cb4",
+      "title": "Quiet on the Freeway",
+      "language": "English",
+      "source": "s_20261031_002722_3ebf8a.m4a",
+      "bytes": 2093575,
+      "localMtime": 1793406727.090412,
+      "file": "songs/698f14853926f45765df395e1fe895fc66237e0366bab3bc69dba71572ede28c.m4a",
+      "sha256": "698f14853926f45765df395e1fe895fc66237e0366bab3bc69dba71572ede28c"
+    },
+    {
+      "id": "song_20261031_003609_cd1f",
+      "title": "A plena llum",
+      "language": "Catalan",
+      "source": "s_20261031_003340_830979.m4a",
+      "bytes": 2128073,
+      "localMtime": 1793406969.2906582,
+      "file": "songs/876156f61d5323efc43374e1625fb393c40f125870834dfcfbcde9e197b61ca9.m4a",
+      "sha256": "876156f61d5323efc43374e1625fb393c40f125870834dfcfbcde9e197b61ca9"
+    },
+    {
+      "id": "song_20261031_004008_7300",
+      "title": "Clear As Midnight",
+      "language": "English",
+      "source": "s_20261031_003723_74b0ed.m4a",
+      "bytes": 2211937,
+      "localMtime": 1793407208.7558699,
+      "file": "songs/ae5ca438b9d84fd3eb582bf3390f91ded30728ee781edff78a9b08c8aec25b08.m4a",
+      "sha256": "ae5ca438b9d84fd3eb582bf3390f91ded30728ee781edff78a9b08c8aec25b08"
+    },
+    {
+      "id": "song_20261031_010308_d46d",
+      "title": "Midnight Wire",
+      "language": "English",
+      "source": "s_20261031_005750_0d7d83.m4a",
+      "bytes": 2328941,
+      "localMtime": 1793408588.1377354,
+      "file": "songs/dde56fc8e6e8069fd9425114abc2ad5340c3a9b84a129bd28bb6ad19d4f411e2.m4a",
+      "sha256": "dde56fc8e6e8069fd9425114abc2ad5340c3a9b84a129bd28bb6ad19d4f411e2"
+    },
+    {
+      "id": "song_20261031_011708_21e6",
+      "title": "Desarmar l'equipatge",
+      "language": "Catalan",
+      "source": "s_20261031_010723_734fb7.m4a",
+      "bytes": 1912956,
+      "localMtime": 1793409428.721176,
+      "file": "songs/1350dc0c935c7159f9540ef248eae7e401e20c32e83107c0a2aacb4f0ad06ef6.m4a",
+      "sha256": "1350dc0c935c7159f9540ef248eae7e401e20c32e83107c0a2aacb4f0ad06ef6"
+    },
+    {
+      "id": "song_20261031_012013_a09e",
+      "title": "Vidres Entelats",
+      "language": "Catalan",
+      "source": "s_20261031_011733_a51409.m4a",
+      "bytes": 1733788,
+      "localMtime": 1793409613.435386,
+      "file": "songs/dfc119ac7c40831fb939ca4b89f0ffbaa342ce7daaff0df3bc98bbe5dc0c3347.m4a",
+      "sha256": "dfc119ac7c40831fb939ca4b89f0ffbaa342ce7daaff0df3bc98bbe5dc0c3347"
+    },
+    {
+      "id": "song_20261031_012906_f84f",
+      "title": "Spinning on the Hardwood",
+      "language": "English",
+      "source": "s_20261031_012724_be537c.m4a",
+      "bytes": 1829332,
+      "localMtime": 1793410146.6648138,
+      "file": "songs/32831878ed9dc74ff0d5ec1c98152a0cbcc41d187ae2ac5a4ea1325cdfca3114.m4a",
+      "sha256": "32831878ed9dc74ff0d5ec1c98152a0cbcc41d187ae2ac5a4ea1325cdfca3114"
+    },
+    {
+      "id": "song_20261031_014606_57f2",
+      "title": "Flinch",
+      "language": "English",
+      "source": "s_20261031_013735_c3f6da.m4a",
+      "bytes": 2039272,
+      "localMtime": 1793411166.5953405,
+      "file": "songs/1323a3e789bd3879070110c3edefe0662458f1e6cd894f425cd866f8839b4153.m4a",
+      "sha256": "1323a3e789bd3879070110c3edefe0662458f1e6cd894f425cd866f8839b4153"
+    },
+    {
+      "id": "song_20261031_014918_1f33",
+      "title": "Red Dirt Gravity",
+      "language": "English",
+      "source": "s_20261031_014732_d930b0.m4a",
+      "bytes": 2100808,
+      "localMtime": 1793411358.8086205,
+      "file": "songs/5e0869788e7558255b0617fbcae11b539d9d7156ead22f6c73dd626ea77a702d.m4a",
+      "sha256": "5e0869788e7558255b0617fbcae11b539d9d7156ead22f6c73dd626ea77a702d"
+    },
+    {
+      "id": "song_20261031_020920_5135",
+      "title": "Morning Person",
+      "language": "English",
+      "source": "s_20261031_020730_9e79ef.m4a",
+      "bytes": 2240646,
+      "localMtime": 1793412560.7609897,
+      "file": "songs/3c7fe79bef322fc5a082f8665ada2a95177539bb4dec5efd0812c4ee60d5a0b4.m4a",
+      "sha256": "3c7fe79bef322fc5a082f8665ada2a95177539bb4dec5efd0812c4ee60d5a0b4"
+    },
+    {
+      "id": "song_20261031_022012_815b",
+      "title": "Halogen Rain",
+      "language": "English",
+      "source": "s_20261031_021738_d8db38.m4a",
+      "bytes": 2160212,
+      "localMtime": 1793413212.3027916,
+      "file": "songs/77b527a6882499553dae1cac6d3ffc49ca77a2f14732a7b7887692039c6caab2.m4a",
+      "sha256": "77b527a6882499553dae1cac6d3ffc49ca77a2f14732a7b7887692039c6caab2"
+    },
+    {
+      "id": "song_20261031_023013_4b21",
+      "title": "Off the Record",
+      "language": "English",
+      "source": "s_20261031_022728_c893fc.m4a",
+      "bytes": 2259441,
+      "localMtime": 1793413813.330126,
+      "file": "songs/a77bc579970de7e1ceae1f69393d49cb1449732df35ef68f9c901ec3588eec72.m4a",
+      "sha256": "a77bc579970de7e1ceae1f69393d49cb1449732df35ef68f9c901ec3588eec72"
+    },
+    {
+      "id": "song_20261031_024015_7e8e",
+      "title": "Glass Altar",
+      "language": "English",
+      "source": "s_20261031_023748_f47b65.m4a",
+      "bytes": 1998468,
+      "localMtime": 1793414414.9035556,
+      "file": "songs/3e2e5197ba0b02ba60617a3cf154aa37f2a60955b80ccf7590be3bedd4dee903.m4a",
+      "sha256": "3e2e5197ba0b02ba60617a3cf154aa37f2a60955b80ccf7590be3bedd4dee903"
+    },
+    {
+      "id": "song_20261031_025009_5cb4",
+      "title": "Halo Effect",
+      "language": "English",
+      "source": "s_20261031_024739_363d1e.m4a",
+      "bytes": 2052905,
+      "localMtime": 1793415009.3098884,
+      "file": "songs/7ad6f110a4cc01affe6f91ee56b64bfd1d7b28399928f7afd071aecdc6a18f26.m4a",
+      "sha256": "7ad6f110a4cc01affe6f91ee56b64bfd1d7b28399928f7afd071aecdc6a18f26"
+    },
+    {
+      "id": "song_20261031_030025_6732",
+      "title": "Bet the House",
+      "language": "English",
+      "source": "s_20261031_025744_1b0775.m4a",
+      "bytes": 2067082,
+      "localMtime": 1793415625.097562,
+      "file": "songs/769fc3b636f55061df4e1183ddb37b645851dc9b304b75169987dc2855563e64.m4a",
+      "sha256": "769fc3b636f55061df4e1183ddb37b645851dc9b304b75169987dc2855563e64"
+    },
+    {
+      "id": "song_20261031_031011_bc0d",
+      "title": "Halfway to Sober",
+      "language": "English",
+      "source": "s_20261031_030738_1d242e.m4a",
+      "bytes": 1981845,
+      "localMtime": 1793416211.3035028,
+      "file": "songs/e58317771878b661f3585a4722d2080368bc6648bd340f2806c5df718aa69d04.m4a",
+      "sha256": "e58317771878b661f3585a4722d2080368bc6648bd340f2806c5df718aa69d04"
+    },
+    {
+      "id": "song_20261031_032011_29ce",
+      "title": "Nobody Walks Alone",
+      "language": "English",
+      "source": "s_20261031_031725_3c0186.m4a",
+      "bytes": 2085284,
+      "localMtime": 1793416811.4407651,
+      "file": "songs/beaf734fb14664637687f56ccbbbf9f229d49cc1d1e9cf92f5dd8744d06f2e52.m4a",
+      "sha256": "beaf734fb14664637687f56ccbbbf9f229d49cc1d1e9cf92f5dd8744d06f2e52"
+    },
+    {
+      "id": "song_20261031_034011_8214",
+      "title": "Borrowed Daylight",
+      "language": "English",
+      "source": "s_20261031_033728_0822ff.m4a",
+      "bytes": 1927749,
+      "localMtime": 1793418010.692431,
+      "file": "songs/2d2fb8df7cbe2e195cbae9e228a7d662b93d53e7091fc2d5efdda8fecd66dbbb.m4a",
+      "sha256": "2d2fb8df7cbe2e195cbae9e228a7d662b93d53e7091fc2d5efdda8fecd66dbbb"
+    },
+    {
+      "id": "song_20261031_035014_2cf4",
+      "title": "House Lights",
+      "language": "English",
+      "source": "s_20261031_034734_d3e129.m4a",
+      "bytes": 2171982,
+      "localMtime": 1793418614.4158242,
+      "file": "songs/2ce33f7537ef0bcd29f1db404d6f36c5daca95af4f82621c5b892005b7c839a8.m4a",
+      "sha256": "2ce33f7537ef0bcd29f1db404d6f36c5daca95af4f82621c5b892005b7c839a8"
+    },
+    {
+      "id": "song_20261031_040022_8505",
+      "title": "Westbound 10",
+      "language": "English",
+      "source": "s_20261031_035730_0e7a98.m4a",
+      "bytes": 2287268,
+      "localMtime": 1793419222.4433036,
+      "file": "songs/98f1ff14865523869bad41f4094fe31bbe024aebde3c26d1b75e2504b64e9484.m4a",
+      "sha256": "98f1ff14865523869bad41f4094fe31bbe024aebde3c26d1b75e2504b64e9484"
+    },
+    {
+      "id": "song_20261031_041009_5612",
+      "title": "Pacific Heat",
+      "language": "English",
+      "source": "s_20261031_040741_7f9e8e.m4a",
+      "bytes": 2241070,
+      "localMtime": 1793419809.2444577,
+      "file": "songs/25cf9ffe17432027ff8f2dc414d5da843a63d414dc9f6e05cd28e65f7d180fad.m4a",
+      "sha256": "25cf9ffe17432027ff8f2dc414d5da843a63d414dc9f6e05cd28e65f7d180fad"
+    },
+    {
+      "id": "song_20261031_043027_058f",
+      "title": "Leave The Engine Running",
+      "language": "English",
+      "source": "s_20261031_042738_8f35ff.m4a",
+      "bytes": 2164274,
+      "localMtime": 1793421027.1308637,
+      "file": "songs/d7c1c2180b24283fcd0f01ae56149b88eebd396a630a15263ff95a01d7ee74f0.m4a",
+      "sha256": "d7c1c2180b24283fcd0f01ae56149b88eebd396a630a15263ff95a01d7ee74f0"
+    },
+    {
+      "id": "song_20261031_044811_dd70",
+      "title": "Cold Engine",
+      "language": "English",
+      "source": "s_20261031_043753_e1e338.m4a",
+      "bytes": 1707974,
+      "localMtime": 1793422091.832006,
+      "file": "songs/dce94c44a54cdf7dc6da6fb24e75e66f86e0166c5355aaa697e60bf90f6159f3.m4a",
+      "sha256": "dce94c44a54cdf7dc6da6fb24e75e66f86e0166c5355aaa697e60bf90f6159f3"
+    },
+    {
+      "id": "song_20261031_050219_c9cb",
+      "title": "Plain Sight",
+      "language": "English",
+      "source": "s_20261031_045736_afd0e0.m4a",
+      "bytes": 2142360,
+      "localMtime": 1793422939.5716143,
+      "file": "songs/8c038495bcba588fa19c5140e7d4d936f904396dc36d00c75ddc5394b7de1fac.m4a",
+      "sha256": "8c038495bcba588fa19c5140e7d4d936f904396dc36d00c75ddc5394b7de1fac"
+    },
+    {
+      "id": "song_20261031_051009_ae3b",
+      "title": "Night Vision",
+      "language": "English",
+      "source": "s_20261031_050730_516161.m4a",
+      "bytes": 2285551,
+      "localMtime": 1793423409.560556,
+      "file": "songs/8dc830176463ee9aa5dc5a5f6bbef16a43f1e512281d732bf5f3474cd5a5adf7.m4a",
+      "sha256": "8dc830176463ee9aa5dc5a5f6bbef16a43f1e512281d732bf5f3474cd5a5adf7"
+    },
+    {
+      "id": "song_20261031_052015_8712",
+      "title": "Heavy Halo",
+      "language": "English",
+      "source": "s_20261031_051733_2447d2.m4a",
+      "bytes": 2190478,
+      "localMtime": 1793424015.765567,
+      "file": "songs/fc5c9375a266e8666ba959ea7781dcf5a9a54b6ddaac6b83be9551b478d1de7e.m4a",
+      "sha256": "fc5c9375a266e8666ba959ea7781dcf5a9a54b6ddaac6b83be9551b478d1de7e"
+    },
+    {
+      "id": "song_20261031_053011_79e3",
+      "title": "Bare Minimum",
+      "language": "English",
+      "source": "s_20261031_052741_926451.m4a",
+      "bytes": 2142325,
+      "localMtime": 1793424611.8807032,
+      "file": "songs/7db3fb82b267d1ca6863b3be4507995a76af01e6cd5ec9a46f9d2204c6abb22d.m4a",
+      "sha256": "7db3fb82b267d1ca6863b3be4507995a76af01e6cd5ec9a46f9d2204c6abb22d"
+    },
+    {
+      "id": "song_20261031_054012_85ee",
+      "title": "Room Temperature",
+      "language": "English",
+      "source": "s_20261031_053735_07f50c.m4a",
+      "bytes": 2168281,
+      "localMtime": 1793425212.1692145,
+      "file": "songs/cf255e4c50ecf69ba9fbb6e58375e1f7b9e60f406ca215f2d91078b698f0c298.m4a",
+      "sha256": "cf255e4c50ecf69ba9fbb6e58375e1f7b9e60f406ca215f2d91078b698f0c298"
+    },
+    {
+      "id": "song_20261031_060309_bfbe",
+      "title": "Pedra no Peito",
+      "language": "Galician",
+      "source": "s_20261031_055718_2e0022.m4a",
+      "bytes": 1907492,
+      "localMtime": 1793426589.6307108,
+      "file": "songs/a992b77d39cc18442525cf0cf21714c120b7321c5e07eee69002efe6d5c6489f.m4a",
+      "sha256": "a992b77d39cc18442525cf0cf21714c120b7321c5e07eee69002efe6d5c6489f"
+    },
+    {
+      "id": "song_20261031_061012_8a94",
+      "title": "Daylight Don't Lie",
+      "language": "English",
+      "source": "s_20261031_060740_8d0c80.m4a",
+      "bytes": 1956099,
+      "localMtime": 1793427012.469189,
+      "file": "songs/37a08ffed1ecc232b360b20c22a1ae2b5a335b92548d75c4a7c656e4fedcc06c.m4a",
+      "sha256": "37a08ffed1ecc232b360b20c22a1ae2b5a335b92548d75c4a7c656e4fedcc06c"
+    },
+    {
+      "id": "song_20261031_062011_697a",
+      "title": "Triage",
+      "language": "English",
+      "source": "s_20261031_061730_71073b.m4a",
+      "bytes": 2179247,
+      "localMtime": 1793427611.5352619,
+      "file": "songs/e7ba1927b5c2c7d0e72a3b2c62997f1fc392770a6afd323772c16098ec4ed306.m4a",
+      "sha256": "e7ba1927b5c2c7d0e72a3b2c62997f1fc392770a6afd323772c16098ec4ed306"
+    },
+    {
+      "id": "song_20261031_062407_2236",
+      "title": "Bitiw",
+      "language": "Filipino",
+      "source": "s_20261031_062138_7316b5.m4a",
+      "bytes": 2180831,
+      "localMtime": 1793427847.4771566,
+      "file": "songs/0840be3ce4e6dd5d37f0250fd58c8f8112b96cd7a8cd2c79e563ec9b48b58c31.m4a",
+      "sha256": "0840be3ce4e6dd5d37f0250fd58c8f8112b96cd7a8cd2c79e563ec9b48b58c31"
+    },
+    {
+      "id": "song_20261031_064317_fcbd",
+      "title": "Daylight on the Dashboard",
+      "language": "English",
+      "source": "s_20261031_063725_480b22.m4a",
+      "bytes": 1993165,
+      "localMtime": 1793428997.106057,
+      "file": "songs/f18176635d434d422a62ac6a79fc0a995ac041530424c12c9a91764b2b7e9363.m4a",
+      "sha256": "f18176635d434d422a62ac6a79fc0a995ac041530424c12c9a91764b2b7e9363"
+    },
+    {
+      "id": "song_20261031_065010_3ced",
+      "title": "Where the Highway Ends",
+      "language": "English",
+      "source": "s_20261031_064724_c2fe65.m4a",
+      "bytes": 2055170,
+      "localMtime": 1793429410.0262108,
+      "file": "songs/d3d19c7493aea6bf1e42d96c2e823d721e268c5fecb5f1c893a0e9b91a3b7d18.m4a",
+      "sha256": "d3d19c7493aea6bf1e42d96c2e823d721e268c5fecb5f1c893a0e9b91a3b7d18"
+    },
+    {
+      "id": "song_20261031_070024_584e",
+      "title": "Unmuted",
+      "language": "English",
+      "source": "s_20261031_065738_fc3488.m4a",
+      "bytes": 2170794,
+      "localMtime": 1793430024.0105531,
+      "file": "songs/a993a2fd0531cb0d87a2bedd143219b03449054e38712d217c79d4aaeeaf2140.m4a",
+      "sha256": "a993a2fd0531cb0d87a2bedd143219b03449054e38712d217c79d4aaeeaf2140"
+    },
+    {
+      "id": "song_20261031_071008_b7e2",
+      "title": "While I Was Standing Here",
+      "language": "English",
+      "source": "s_20261031_070740_9195ef.m4a",
+      "bytes": 2195799,
+      "localMtime": 1793430608.786327,
+      "file": "songs/9601851eabf43d27f87bdf1f0bf3e08b93620888edf9c2eabf1691179cfd7399.m4a",
+      "sha256": "9601851eabf43d27f87bdf1f0bf3e08b93620888edf9c2eabf1691179cfd7399"
+    },
+    {
+      "id": "song_20261031_072010_925e",
+      "title": "Low Gear",
+      "language": "English",
+      "source": "s_20261031_071742_dfb899.m4a",
+      "bytes": 1919790,
+      "localMtime": 1793431210.8234806,
+      "file": "songs/44f66e19e4950c5625def3775c7ddcef5a46566cc6540cb4d86729abd0cb46a4.m4a",
+      "sha256": "44f66e19e4950c5625def3775c7ddcef5a46566cc6540cb4d86729abd0cb46a4"
+    },
+    {
+      "id": "song_20261031_073011_718e",
+      "title": "Vértigo Lento",
+      "language": "English",
+      "source": "s_20261031_072737_c9dd55.m4a",
+      "bytes": 2089439,
+      "localMtime": 1793431811.5926683,
+      "file": "songs/0d14b2f1f2e70f50a51bfbb8fd782a09e33a247971a81ab0a76a224f541f91d0.m4a",
+      "sha256": "0d14b2f1f2e70f50a51bfbb8fd782a09e33a247971a81ab0a76a224f541f91d0"
+    },
+    {
+      "id": "song_20261031_074009_08f8",
+      "title": "Open Ground",
+      "language": "English",
+      "source": "s_20261031_073736_7b1dc7.m4a",
+      "bytes": 1945450,
+      "localMtime": 1793432409.343962,
+      "file": "songs/006458b188b80f046f15dca5cf7c36cfddd2742fb997e34e69da4554cbff0c7b.m4a",
+      "sha256": "006458b188b80f046f15dca5cf7c36cfddd2742fb997e34e69da4554cbff0c7b"
+    },
+    {
+      "id": "song_20261031_075008_d1c6",
+      "title": "Low Light Alibi",
+      "language": "English",
+      "source": "s_20261031_074745_80c994.m4a",
+      "bytes": 2192043,
+      "localMtime": 1793433008.862314,
+      "file": "songs/e4bec1b72f3956b342b669216ef258d5c7e0e65ac707e23f9e26a96a7a664c98.m4a",
+      "sha256": "e4bec1b72f3956b342b669216ef258d5c7e0e65ac707e23f9e26a96a7a664c98"
+    },
+    {
+      "id": "song_20261031_080023_c194",
+      "title": "Broad Daylight",
+      "language": "English",
+      "source": "s_20261031_075738_fbe797.m4a",
+      "bytes": 1816022,
+      "localMtime": 1793433623.3868165,
+      "file": "songs/8dd6f9971276fc121a3eae9c2148554edeb4fcb5996ea0db89dda36df0dd066a.m4a",
+      "sha256": "8dd6f9971276fc121a3eae9c2148554edeb4fcb5996ea0db89dda36df0dd066a"
+    },
+    {
+      "id": "song_20261031_081513_320f",
+      "title": "Porch Light",
+      "language": "English",
+      "source": "s_20261031_080740_6b60f4.m4a",
+      "bytes": 2109395,
+      "localMtime": 1793434513.083631,
+      "file": "songs/a25dc9355f8e44e717a9a498505d45b5ef928fe8c063e36b4774177284e05fb1.m4a",
+      "sha256": "a25dc9355f8e44e717a9a498505d45b5ef928fe8c063e36b4774177284e05fb1"
+    },
+    {
+      "id": "song_20261031_082018_9fd4",
+      "title": "Audience of One",
+      "language": "English",
+      "source": "s_20261031_081746_9afc3c.m4a",
+      "bytes": 1835844,
+      "localMtime": 1793434818.015386,
+      "file": "songs/e1f4f6130521a7c9906ed369f5574025096b2699f37db8d4a14e12f110d0abbb.m4a",
+      "sha256": "e1f4f6130521a7c9906ed369f5574025096b2699f37db8d4a14e12f110d0abbb"
+    },
+    {
+      "id": "song_20261031_083014_5db3",
+      "title": "Heavy Halo",
+      "language": "English",
+      "source": "s_20261031_082732_07331c.m4a",
+      "bytes": 2230875,
+      "localMtime": 1793435413.9796302,
+      "file": "songs/4950a8fedcdf86ec5f1882f0801a3e4b37f3a5e0f66bc418774d5bbefc6d72b3.m4a",
+      "sha256": "4950a8fedcdf86ec5f1882f0801a3e4b37f3a5e0f66bc418774d5bbefc6d72b3"
+    },
+    {
+      "id": "song_20261031_084013_9678",
+      "title": "Where We Landed",
+      "language": "English",
+      "source": "s_20261031_083741_eb6860.m4a",
+      "bytes": 2319296,
+      "localMtime": 1793436013.4669027,
+      "file": "songs/138ffede340c75ae62435cb41b7d7f9a84a4d197a4ebe44ef9a10bdb452fe8b5.m4a",
+      "sha256": "138ffede340c75ae62435cb41b7d7f9a84a4d197a4ebe44ef9a10bdb452fe8b5"
+    },
+    {
+      "id": "song_20261031_085009_8959",
+      "title": "Quit Leaving The Key",
+      "language": "English",
+      "source": "s_20261031_084744_617ec4.m4a",
+      "bytes": 2176369,
+      "localMtime": 1793436609.5469868,
+      "file": "songs/4c8ff360edb6cdc9860cb66d3e32a9588e52366b37915b2b28427e1989405212.m4a",
+      "sha256": "4c8ff360edb6cdc9860cb66d3e32a9588e52366b37915b2b28427e1989405212"
+    },
+    {
+      "id": "song_20261031_092106_049b",
+      "title": "Blame the Border",
+      "language": "English",
+      "source": "s_20261031_091741_4e72a1.m4a",
+      "bytes": 2077142,
+      "localMtime": 1793438466.3582907,
+      "file": "songs/a1eeb8616d7b861765319d2db8ba2ab79907766730e8e6e5994f00773524e50d.m4a",
+      "sha256": "a1eeb8616d7b861765319d2db8ba2ab79907766730e8e6e5994f00773524e50d"
+    },
+    {
+      "id": "song_20261031_095008_c113",
+      "title": "Heavy Silk",
+      "language": "English",
+      "source": "s_20261031_094738_0bddbd.m4a",
+      "bytes": 1923074,
+      "localMtime": 1793440208.8352284,
+      "file": "songs/731033316fad3eca963e23cdc0b57cc9ed39a52f9fe3aedef15393db5f39a3d9.m4a",
+      "sha256": "731033316fad3eca963e23cdc0b57cc9ed39a52f9fe3aedef15393db5f39a3d9"
+    },
+    {
+      "id": "song_20261031_101008_f637",
+      "title": "Borrowed Daylight",
+      "language": "English",
+      "source": "s_20261031_100744_b77b60.m4a",
+      "bytes": 2030225,
+      "localMtime": 1793441408.4421163,
+      "file": "songs/9b726dc1b0becf7a648bcbf8fc9265d84c7934cff45b3e18f3bfff784908b048.m4a",
+      "sha256": "9b726dc1b0becf7a648bcbf8fc9265d84c7934cff45b3e18f3bfff784908b048"
+    },
+    {
+      "id": "song_20261031_104707_5b7f",
+      "title": "Flesh and Bone",
+      "language": "English",
+      "source": "s_20261031_103733_53a334.m4a",
+      "bytes": 1967117,
+      "localMtime": 1793443626.6524167,
+      "file": "songs/ac052cad03101689e63703ba28bfe76e7449560a687a8885a1930853f8927027.m4a",
+      "sha256": "ac052cad03101689e63703ba28bfe76e7449560a687a8885a1930853f8927027"
+    },
+    {
+      "id": "song_20261031_110208_dfb1",
+      "title": "Main Street Gold",
+      "language": "English",
+      "source": "s_20261031_105739_6ea86f.m4a",
+      "bytes": 2073262,
+      "localMtime": 1793444528.5669127,
+      "file": "songs/b2ce4192366686048abe860caafdbea420c6652136814fad30608f4eabef313d.m4a",
+      "sha256": "b2ce4192366686048abe860caafdbea420c6652136814fad30608f4eabef313d"
+    },
+    {
+      "id": "song_20261031_111007_1fcf",
+      "title": "Don't Hold Your Breath",
+      "language": "English",
+      "source": "s_20261031_110747_c31f88.m4a",
+      "bytes": 1951181,
+      "localMtime": 1793445007.0012505,
+      "file": "songs/8e2cb4d16b3e45357a1f536790c5b9c71c1c1a95dc26c78c693cdca06a4e31da.m4a",
+      "sha256": "8e2cb4d16b3e45357a1f536790c5b9c71c1c1a95dc26c78c693cdca06a4e31da"
+    },
+    {
+      "id": "song_20261031_113011_1139",
+      "title": "House Lights",
+      "language": "English",
+      "source": "s_20261031_112748_530ce3.m4a",
+      "bytes": 2035191,
+      "localMtime": 1793446211.7388117,
+      "file": "songs/0496424bc02f542f4b11c7a9c002dc0bae8064d03ae2942dbcba323749b71a29.m4a",
+      "sha256": "0496424bc02f542f4b11c7a9c002dc0bae8064d03ae2942dbcba323749b71a29"
+    },
+    {
+      "id": "song_20261031_113408_3b84",
+      "title": "Full Recovery",
+      "language": "English",
+      "source": "s_20261031_111829_b4dc91.m4a",
+      "bytes": 2039044,
+      "localMtime": 1793446448.1953387,
+      "file": "songs/886219da5396773c75733d6cc290c7b446ae58396d88801831e132a4c19559cc.m4a",
+      "sha256": "886219da5396773c75733d6cc290c7b446ae58396d88801831e132a4c19559cc"
+    },
+    {
+      "id": "song_20261031_115008_db62",
+      "title": "Two Sets of Keys",
+      "language": "English",
+      "source": "s_20261031_114733_30f191.m4a",
+      "bytes": 2175433,
+      "localMtime": 1793447408.1534336,
+      "file": "songs/c68be94a1e74d8381ef5db7e73cef2915601cb000b1dc733bc48320af50ca8a1.m4a",
+      "sha256": "c68be94a1e74d8381ef5db7e73cef2915601cb000b1dc733bc48320af50ca8a1"
+    },
+    {
+      "id": "song_20261031_121512_4a89",
+      "title": "White Knuckle",
+      "language": "English",
+      "source": "s_20261031_120737_768879.m4a",
+      "bytes": 2145852,
+      "localMtime": 1793448912.4276228,
+      "file": "songs/dc2697770041de6f6ac90f9ebc8de4568a01d4aa7251778db1306f5e5efccdc8.m4a",
+      "sha256": "dc2697770041de6f6ac90f9ebc8de4568a01d4aa7251778db1306f5e5efccdc8"
+    },
+    {
+      "id": "song_20261031_122011_2269",
+      "title": "Hard to Hold",
+      "language": "English",
+      "source": "s_20261031_121745_0a4fcd.m4a",
+      "bytes": 1834896,
+      "localMtime": 1793449211.1798055,
+      "file": "songs/d0aa57fc8327cb2cfb71a8a8d0478bbe973ea86058972f9df1f22cd750c96ba6.m4a",
+      "sha256": "d0aa57fc8327cb2cfb71a8a8d0478bbe973ea86058972f9df1f22cd750c96ba6"
+    },
+    {
+      "id": "song_20261031_123011_3bcf",
+      "title": "Backslide Weather",
+      "language": "English",
+      "source": "s_20261031_122737_fa8f72.m4a",
+      "bytes": 2053770,
+      "localMtime": 1793449811.3697033,
+      "file": "songs/40d9290a5d2c73864abf782cc2911afef1da541c532358f9b73c397da88d6ef3.m4a",
+      "sha256": "40d9290a5d2c73864abf782cc2911afef1da541c532358f9b73c397da88d6ef3"
+    },
+    {
+      "id": "song_20261031_124510_3f1b",
+      "title": "Quiet in the Cab",
+      "language": "English",
+      "source": "s_20261031_123742_66a3e8.m4a",
+      "bytes": 2193961,
+      "localMtime": 1793450710.1057487,
+      "file": "songs/e676ee18c55dc73198afdcf33da4ce21ff126126c1f775de3a59df8150bdb4e1.m4a",
+      "sha256": "e676ee18c55dc73198afdcf33da4ce21ff126126c1f775de3a59df8150bdb4e1"
+    },
+    {
+      "id": "song_20261031_125009_aca2",
+      "title": "Cut The Feed",
+      "language": "English",
+      "source": "s_20261031_124742_0c73f8.m4a",
+      "bytes": 2027700,
+      "localMtime": 1793451009.3330917,
+      "file": "songs/a7607f4464df18fab34baa86c9188aee7006ef2efa1eb5ff0a8751ff7cc3ce09.m4a",
+      "sha256": "a7607f4464df18fab34baa86c9188aee7006ef2efa1eb5ff0a8751ff7cc3ce09"
+    }
+  ]
+}
